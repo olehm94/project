@@ -38,6 +38,6 @@ logger();
 
 
 const calc = (a, b) => {
-    console.log();
+    console.log("1");
     return a=b;
 };
